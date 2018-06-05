@@ -1,4 +1,4 @@
-package ProxyPattern;
+package proxypattern;
 
 /**
  * 实现接口的实体类

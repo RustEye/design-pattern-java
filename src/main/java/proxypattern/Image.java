@@ -1,4 +1,4 @@
-package ProxyPattern;
+package proxypattern;
 
 public interface Image {
     void display();

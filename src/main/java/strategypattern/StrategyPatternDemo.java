@@ -1,4 +1,4 @@
-package StrategyPattern;
+package strategypattern;
 
 /**
  * 测试

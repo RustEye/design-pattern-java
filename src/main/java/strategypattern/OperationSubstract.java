@@ -1,4 +1,4 @@
-package StrategyPattern;
+package strategypattern;
 
 /**
  * 加
@@ -7,10 +7,10 @@ package StrategyPattern;
  * @create 2018-06-04 21:14
  **/
 
-public class OperationMultiply implements Strategy{
+public class OperationSubstract implements Strategy{
 
     @Override
     public int doOperation(int num1, int num2) {
-        return num1 * num2;
+        return num1 - num2;
     }
 }

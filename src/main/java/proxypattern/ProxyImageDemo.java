@@ -1,4 +1,4 @@
-package ProxyPattern;
+package proxypattern;
 
 /**
  * 测试
